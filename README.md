@@ -23,10 +23,10 @@ The dashboard allows users to:
         Retries are handled with a configurable retry limit.
 
    3. Performance Metrics:
-        CPU Utilization
-        Average Turnaround Time
-        Average Waiting Time
-        Average Response Time
+        CPU Utilization,
+        Average Turnaround Time,
+        Average Waiting Time,
+        Average Response Time,
         Throughput (jobs/second)
 
    4. Real-Time Gantt Chart:
