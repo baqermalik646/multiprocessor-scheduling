@@ -82,7 +82,9 @@ The dashboard allows users to:
 
    4. Access the Dashboard:
 
-            Open your browser and go to http://127.0.0.1:8050/
+            Open your browser, and the app will automatically launch at http://127.0.0.1:8050/.
+
+            In rare instances, when the program starts, the app may display the message: Unable to connect. If this happens, refreshing the page immediately resolves the issue, and the app runs successfully.
 
 
 ### Usage
