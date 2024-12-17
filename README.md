@@ -49,7 +49,7 @@ The dashboard allows users to:
 
 ### Installation
 
-    1. Prerequisites:
+   1. Prerequisites:
         Python 3.x installed.
         Required Python libraries:
 
@@ -62,11 +62,11 @@ The dashboard allows users to:
 
    3. Run the Program:
 
-        python3 multi.py
+         python3 multi.py
 
    4. Access the Dashboard:
 
-        Open your browser and go to http://127.0.0.1:8050/
+         Open your browser and go to http://127.0.0.1:8050/
 
 
 ### Usage
@@ -94,15 +94,15 @@ The dashboard allows users to:
 ### How It Works
 
     1. Job Generation:
-        Jobs are dynamically created with random durations (1-8 seconds) and CPU affinity constraints.
+         Jobs are dynamically created with random durations (1-8 seconds) and CPU affinity constraints.
 
     2. Job Scheduling:
-        Jobs are scheduled to CPUs that match their affinity.
-        Jobs exceeding the retry limit are discarded.
+         Jobs are scheduled to CPUs that match their affinity.
+         Jobs exceeding the retry limit are discarded.
 
     3. Performance Monitoring:
-        Metrics are dynamically calculated and displayed in real-time.
+         Metrics are dynamically calculated and displayed in real-time.
 
     4. Visualization:
-        A Gantt Chart dynamically visualizes completed jobs across CPUs.
+         A Gantt Chart dynamically visualizes completed jobs across CPUs.
 
