@@ -57,6 +57,7 @@ The dashboard allows users to:
 
    2. Clone the Repository:
         git clone https://github.com/baqermalik646/multiprocessor-scheduling.git
+
         cd multiprocessor-scheduling
 
    3. Run the Program:
