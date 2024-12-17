@@ -86,10 +86,10 @@ The dashboard allows users to:
             Throughput
 
     3. Dynamic Gantt Chart:
-        Visualizes job execution over time across multiple CPUs.
+            Visualizes job execution over time across multiple CPUs.
 
     4. Real-Time Logs:
-        Monitor job scheduling events in the terminal.
+            Monitor job scheduling events in the terminal.
 
         
 #### Dashboard Preview - Screenshots are available in screenshots folder.
@@ -97,15 +97,15 @@ The dashboard allows users to:
 ### How It Works
 
     1. Job Generation:
-         Jobs are dynamically created with random durations (1-8 seconds) and CPU affinity constraints.
+            Jobs are dynamically created with random durations (1-8 seconds) and CPU affinity constraints.
 
     2. Job Scheduling:
-         Jobs are scheduled to CPUs that match their affinity.
-         Jobs exceeding the retry limit are discarded.
+            Jobs are scheduled to CPUs that match their affinity.
+            Jobs exceeding the retry limit are discarded.
 
     3. Performance Monitoring:
-         Metrics are dynamically calculated and displayed in real-time.
+            Metrics are dynamically calculated and displayed in real-time.
 
     4. Visualization:
-         A Gantt Chart dynamically visualizes completed jobs across CPUs.
+            A Gantt Chart dynamically visualizes completed jobs across CPUs.
 
