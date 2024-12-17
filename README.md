@@ -84,7 +84,11 @@ The dashboard allows users to:
 
             Open your browser, and the app will automatically launch at http://127.0.0.1:8050/.
 
-            In rare instances, when the program starts, the app may display the message: Unable to connect. If this happens, refreshing the page immediately resolves the issue, and the app runs successfully.
+            In rare instances, when the program starts, the app may display the message: 
+            
+            Unable to connect. If this happens, refreshing the page immediately resolves the issue, 
+            
+            and the app runs successfully.
 
 
 ### Usage
