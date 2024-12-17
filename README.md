@@ -50,23 +50,26 @@ The dashboard allows users to:
 ### Installation
 
    1. Prerequisites:
+
         Python 3.x installed.
+
         Required Python libraries:
 
             pip install dash plotly
 
    2. Clone the Repository:
-        git clone https://github.com/baqermalik646/multiprocessor-scheduling.git
+   
+            git clone https://github.com/baqermalik646/multiprocessor-scheduling.git
 
-        cd multiprocessor-scheduling
+            cd multiprocessor-scheduling
 
    3. Run the Program:
 
-         python3 multi.py
+            python3 multi.py
 
    4. Access the Dashboard:
 
-         Open your browser and go to http://127.0.0.1:8050/
+            Open your browser and go to http://127.0.0.1:8050/
 
 
 ### Usage
