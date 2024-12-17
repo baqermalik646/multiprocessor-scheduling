@@ -15,27 +15,40 @@ The dashboard allows users to:
 ### Features
 
    1. Dynamic Job Generation:
-        Jobs are generated with random durations and CPU affinity constraints.
-        Maximum jobs and CPU count are user-configurable.
+
+            Jobs are generated with random durations and CPU affinity constraints.
+
+            Maximum jobs and CPU count are user-configurable.
 
    2. Job Scheduling:
-        Jobs are scheduled to available CPUs based on their affinity.
-        Retries are handled with a configurable retry limit.
+
+            Jobs are scheduled to available CPUs based on their affinity.
+
+            Retries are handled with a configurable retry limit.
 
    3. Performance Metrics:
-        CPU Utilization,
-        Average Turnaround Time,
-        Average Waiting Time,
-        Average Response Time,
-        Throughput (jobs/second)
+
+            CPU Utilization,
+
+            Average Turnaround Time,
+
+            Average Waiting Time,
+
+            Average Response Time,
+
+            Throughput (jobs/second)
 
    4. Real-Time Gantt Chart:
-        Displays job execution timeline per CPU.
-        Updates dynamically as jobs are completed.
+
+            Displays job execution timeline per CPU.
+
+            Updates dynamically as jobs are completed.
 
    5. Monitoring and Logging:
-        Real-time logs are printed to the terminal.
-        Job completion status and scheduling issues are monitored.
+
+            Real-time logs are printed to the terminal.
+
+            Job completion status and scheduling issues are monitored.
 
 
 ### Tech Stack
@@ -76,14 +89,14 @@ The dashboard allows users to:
 #### Dashboard Overview:
 
     1. Set Configurations:
-        Use the Set Maximum Jobs and Set Number of CPUs inputs to configure the system.
-        Click Apply Settings to update.
+            Use the Set Maximum Jobs and Set Number of CPUs inputs to configure the system.
+            Click Apply Settings to update.
 
     2. Performance Metrics:
-        Displays real-time statistics such as:
-            CPU Utilization
-            Average Turnaround, Waiting, and Response Times
-            Throughput
+            Displays real-time statistics such as:
+                CPU Utilization
+                Average Turnaround, Waiting, and Response Times
+                Throughput
 
     3. Dynamic Gantt Chart:
             Visualizes job execution over time across multiple CPUs.
