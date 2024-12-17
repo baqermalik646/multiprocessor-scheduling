@@ -2,7 +2,7 @@
 
 # Interactive Real-Time CPU Scheduling Dashboard
 
-## Project Overview
+### Project Overview
 
 This project implements an Interactive Real-Time CPU Scheduling Dashboard using Python and Dash. It provides a dynamic simulation and visualization of CPU scheduling, displaying performance metrics and a Gantt chart for job execution.
 
@@ -12,7 +12,7 @@ The dashboard allows users to:
     Monitor performance metrics, including CPU utilization, average turnaround time, waiting time, response time, and throughput.
     Visualize job execution using a real-time Gantt Chart.
 
-## Features
+### Features
 
    1. Dynamic Job Generation:
         Jobs are generated with random durations and CPU affinity constraints.
@@ -38,7 +38,7 @@ The dashboard allows users to:
         Job completion status and scheduling issues are monitored.
 
 
-## Tech Stack
+### Tech Stack
 
     Programming Language: Python 3
     Frameworks & Libraries:
@@ -47,7 +47,7 @@ The dashboard allows users to:
         Multiprocessing: For simulating parallel job execution.
 
 
-## Installation
+### Installation
 
     1. Prerequisites:
         Python 3.x installed.
@@ -69,8 +69,8 @@ The dashboard allows users to:
         Open your browser and go to http://127.0.0.1:8050/
 
 
-## Usage
-### Dashboard Overview:
+### Usage
+#### Dashboard Overview:
 
     1. Set Configurations:
         Use the Set Maximum Jobs and Set Number of CPUs inputs to configure the system.
@@ -89,7 +89,7 @@ The dashboard allows users to:
         Monitor job scheduling events in the terminal.
 
         
-### Dashboard Preview - Screenshots are available in screenshots folder.
+#### Dashboard Preview - Screenshots are available in screenshots folder.
 
 ### How It Works
 
