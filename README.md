@@ -89,7 +89,7 @@ The dashboard allows users to:
         Monitor job scheduling events in the terminal.
 
         
-## Dashboard Preview - Screenshots are available in screenshots folder.
+### Dashboard Preview - Screenshots are available in screenshots folder.
 
 ### How It Works
 
