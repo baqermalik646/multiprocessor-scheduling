@@ -61,9 +61,11 @@ The dashboard allows users to:
         cd multiprocessor-scheduling
 
    3. Run the Program:
+
         python3 multi.py
 
    4. Access the Dashboard:
+
         Open your browser and go to http://127.0.0.1:8050/
 
 
@@ -89,7 +91,7 @@ The dashboard allows users to:
         
 ## Dashboard Preview - Screenshots are available in screenshots folder.
 
-## How It Works
+### How It Works
 
     1. Job Generation:
         Jobs are dynamically created with random durations (1-8 seconds) and CPU affinity constraints.
