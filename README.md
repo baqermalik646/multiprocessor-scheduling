@@ -89,8 +89,14 @@ The dashboard allows users to:
 #### Dashboard Overview:
 
     1. Set Configurations:
-            Use the Set Maximum Jobs and Set Number of CPUs inputs to configure the system.
-            Click Apply Settings to update.
+    
+            The app. comes with default values for Maximum Jobs and Number of CPUs. However, users can update these values using the input fields provided on the dashboard:
+
+                Set Maximum Jobs: Adjust the total number of jobs to be scheduled.
+
+                Set Number of CPUs: Specify the number of CPUs available for job execution.
+
+                Click Apply Settings button to update the app. with the new configurations.
 
     2. Performance Metrics:
             Displays real-time statistics such as:
